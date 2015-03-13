@@ -21,7 +21,7 @@ import android.widget.Toast;
  * </ul>
  * <ul>
  * 
- * * @author <a href="http://www.grackertalk.com" target="_blank">Gracker</a>
+ * * @author <a href="http://www.androidperformance.com" target="_blank">Gracker</a>
  * 2014-4-28
  */
 
